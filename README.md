@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hola, soy Alan Ezequiel Cardiello
 
-<!--
-**AlanEzequiel112/AlanEzequiel112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Full Stack Developer con formación en Henry.
 
-Here are some ideas to get you started:
+Disfruto desarrollar aplicaciones web, integrar APIs y construir soluciones con foco en un código claro, mantenible y una buena experiencia de usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- React
+- TypeScript
+- JavaScript
+- Node.js
+- Express
+- PostgreSQL
+- Firebase
+- Git
+
+## Proyectos destacados
+
+- 💳 Ovni Wallet
+- 🤖 MCP GitHub Server
+- 🕷 Spider Chat
+- ✅ Task Manager
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/ezequiel-cardiello
