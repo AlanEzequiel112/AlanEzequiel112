@@ -24,4 +24,4 @@ Disfruto desarrollar aplicaciones web, integrar APIs y construir soluciones con 
 
 ## Contacto
 
-- LinkedIn: https://www.linkedin.com/in/ezequiel-cardiello
+- [LinkedIn](https://www.linkedin.com/in/ezequiel-cardiello)
